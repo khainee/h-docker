@@ -1,4 +1,4 @@
-FROM anasty17/mltb:dev
+FROM mysterysd/wzmlx:latest
 
 ARG TARGETPLATFORM BUILDPLATFORM DEBIAN_FRONTEND="noninteractive" PYTHONWARNINGS=ignore 
 
